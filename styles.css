@@ -6,7 +6,10 @@
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: hsl(31, 73%, 78%);
+    --rosa-escuro: #ff15bd;
+    --alto-contraste-fundo: #a221ec;
 }
+
 
 body {
     font-size: 1rem;
@@ -60,7 +63,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--rosa-claro);
+    background-color: var(--rosa-escuro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -70,7 +73,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--rosa-claro);
+    text-shadow: -5px 5px var(--rosa-escuro);
 }
 
 
@@ -99,7 +102,7 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--rosa-claro);
+    color: var(--rosa-escuro);
 }
 
 #galeria {
@@ -113,7 +116,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/Taylor-Swift-Eras-Tour-Australia.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -132,7 +135,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #a221ec;
     border: none;
     font-weight: bold;
 }
@@ -188,7 +191,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #the {
     background: none;
 }
 
