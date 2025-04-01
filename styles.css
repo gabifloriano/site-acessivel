@@ -7,7 +7,7 @@
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: hsl(31, 73%, 78%);
     --rosa-escuro: #ff15bd;
-    --alto-contraste-fundo: #a221ec;
+    --roxo-escuro: #d401b8;
 }
 
 
@@ -27,7 +27,7 @@ section {
 
 
 .nav-link {
-    color: #fcb9e9;
+    color: #f831c0;
     font-weight: 600;
 }
 
@@ -77,7 +77,7 @@ section {
 }
 
 
-#tropicalia {
+#theerastour {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -88,7 +88,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#theerastour .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,7 +135,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #a221ec;
+    background-color: #ffffff;
     border: none;
     font-weight: bold;
 }
